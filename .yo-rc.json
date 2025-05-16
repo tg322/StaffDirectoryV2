@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "staff-directory-v-1",
+    "libraryId": "1f39de53-656e-42ec-b818-17ffd8d923b3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "staff-directory-v-1",
+    "solutionShortDescription": "staff-directory-v-1 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

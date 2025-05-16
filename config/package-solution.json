@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "staff-directory-v-1-client-side-solution",
+    "id": "1f39de53-656e-42ec-b818-17ffd8d923b3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "staff-directory-v-1 description"
+      },
+      "longDescription": {
+        "default": "staff-directory-v-1 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "staff-directory-v-1 Feature",
+        "description": "The feature that activates elements of the staff-directory-v-1 solution.",
+        "id": "02503146-3d18-412e-8a6c-12b332b2470e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/staff-directory-v-1.sppkg"
+  }
+}
